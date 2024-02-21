@@ -1,0 +1,3 @@
+Nome: Vinicius Luciano da Silva
+Carreira: Desenvolvedor Fullstack, RPA
+Tecnologias: React.js, Javascrip, Python, Flask, Sanic, Django, PHP, MongoDB, MySQL, PostgreeSQL
